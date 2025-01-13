@@ -36,4 +36,7 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 </footer>
 
 Adding a test emoji to test triggering new action. 😊
+
 One more change after fixing an omitted closing brace from welcome.yml. 😁
+
+One last change, didn't branch on that last one, committed directly to main instead. 😒
